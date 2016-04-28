@@ -1,0 +1,33 @@
+.container {border: solid 1px red;
+	
+
+}
+
+.backgroundrow{ background-image: url(http://th09.deviantart.net/fs70/PRE/i/2013/167/7/c/flowers_watercolor_by_zanstudios-d69bnrw.jpg);
+				background-repeat: no-repeat;
+				background-size: auto 100%;
+				background-position: 5px center;
+
+}
+
+.row {border: solid 1px blue;
+
+}
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12{
+	border: solid 1px green;
+}
+
+.tall{
+	height: 600px;
+}
